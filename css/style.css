@@ -1,0 +1,53 @@
+.title h1 {
+  text-align: center;
+  font-size: 48px;
+  color: #ffffff;
+}
+
+.logos img {
+  height: 40%;
+  width: 20%;
+}
+
+.logos {
+  text-align: center;
+}
+
+.body {
+  background-color: #008CBF;
+}
+
+html {
+  background-color: #005D7F;
+}
+
+a {
+  font-size: 36px;
+}
+
+aside {
+  background-color: #008CBF;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+.schedule {
+  font-size: 36px;
+}
+
+.logos {
+    -webkit-filter: drop-shadow(15px 10px 5px #222);
+    filter: drop-shadow(15px 10px 5px #222);
+}
+
+h2, h3 {
+  font-family: Tahoma, Geneva, sans-serif;
+  color: #ffffff;
+}
+
+.links {
+  text-align: center;
+}
